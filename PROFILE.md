@@ -1,8 +1,1 @@
-# PROFILE
-
-الاسم: Mahmoudpantber
-GitHub: @Mahmoudpantber
-نبذة قصيرة: أهلاً — هذا ملف تعريفي قصير. (أضف هنا نبذة عن عملك واهتماماتك)
-المهارات: Go, JavaScript, Git
-موقع/مدونة: (أضف رابط موقعك/مدونتك هنا)
-طريقة التواصل: (أضف وسيلة تواصل مناسبة هنا)
+Welcome to my GitHub profile!
